@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/*#5A3580, #417983*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body, html {
+    width: 100vw;
+    height: 100vh;
+    background-color: #5d2c80;
+}
